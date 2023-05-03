@@ -9,10 +9,10 @@ Coursera Meta Back End Developer Capstone by johnguaz
 
 ## Unit tests
 ```python manage.py test ```
-![unit-test](doc/utest.png)
+![unit-test](docs/utest.png)
 
 ## Api urls
-![api](doc/apipath.png)
+![api](docs/apipath.png)
 
 
 ## Views (Combined from Full Stack course)
